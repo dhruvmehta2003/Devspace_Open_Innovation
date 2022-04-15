@@ -1,4 +1,4 @@
-# Devspace_Open_Innovation
+# Devspace Open Innovation
 
 ## Project Name : QR CODE GENERATOR WEBSITE
 
